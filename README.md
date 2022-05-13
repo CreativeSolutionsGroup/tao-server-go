@@ -1,6 +1,6 @@
 # τ Twilio Webhook
 
-Theta server is the central texting webhook for Creative Solutions Group
+Tao server is the central texting webhook for Creative Solutions Group
 
 It aims to be a small codebase with a very simplistic API, exposing only what is needed.
 
